@@ -79,6 +79,7 @@
       vim
       kitty
       btop
+      chromium
     ];
   };
 
