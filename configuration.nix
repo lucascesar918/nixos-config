@@ -80,7 +80,7 @@
       kitty
       btop
       chromium
-      code-cursor
+      jetbrains.webstorm
     ];
   };
 
