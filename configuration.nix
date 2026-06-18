@@ -80,6 +80,7 @@
       kitty
       btop
       chromium
+      code-cursor
     ];
   };
 
